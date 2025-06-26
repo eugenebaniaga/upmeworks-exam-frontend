@@ -140,6 +140,9 @@ import {
   IonTabBar,
   IonTabButton,
   IonLabel,
+  IonGrid,
+  IonRow,
+  IonCol,
 } from "@ionic/vue";
 
 import {
