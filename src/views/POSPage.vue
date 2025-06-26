@@ -317,6 +317,9 @@ import {
   IonTabBar,
   IonTabButton,
   IonBadge,
+  IonGrid,
+  IonRow,
+  IonCol,
   alertController,
   toastController,
 } from "@ionic/vue";
